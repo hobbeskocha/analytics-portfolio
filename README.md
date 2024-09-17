@@ -12,6 +12,8 @@ Additionally, I hold a Bachelor of Commerce in Business and Computer Science fro
 
 Outside of my professional interests, I am a dedicated weightlifter with over a decade of experience, video game enthusiast for 15 years, and proud cat dad to my two boys, Pooky and Hobbes.
 
+If you like what you see, feel free to reach out over [LinkedIn](https://www.linkedin.com/in/ayush-yoshi-shrestha/)! 
+
 ## Projects
 
 ### Optimizing a Winery’s Marketing Communications Strategy
@@ -33,7 +35,7 @@ Python (Pandas, Scikit-learn, Statsmodels, Matplotlib, Seaborn), Tableau,
 **Link**: [Netflix Retention](https://github.com/hobbeskocha/netflix-retention)
 
 **Description**:
-This project aims to help Netflix refine its customer retention strategies by analyzing a synthetic dataset of approximately 2,500 customers. After conducting data cleaning and exploratory data analysis using MySQL, I visualized key retention trends in Power BI, highlighting the impact of customer tenure, preferred device type, age, and geography. The analysis identifies high-risk segments prone to churn, with a particular emphasis on North American customers aged 41-50, who show a 5% lower retention rate compared to their peers. To address the retention gap, recommendations include enhancing the user experience for family viewing and curating nostalgia-driven must-watch playlists for this demographic. By leveraging these insights, Netflix can better tailor its marketing, content, and platform features to boost engagement and reduce churn in this critical customer segment.
+This project analyzes a synthetic dataset of approximately 2,500 customers to help Netflix refine its customer retention strategies. After conducting data cleaning and exploratory data analysis using MySQL, I visualized key retention trends in Power BI, highlighting the impact of customer tenure, preferred device type, age, and geography. The analysis identifies high-risk segments prone to churn, with a particular emphasis on North American customers aged 41-50, who show a 5% lower retention rate compared to their peers. To address the retention gap, recommendations include enhancing the user experience for family viewing and curating nostalgia-driven must-watch playlists for this demographic. By leveraging these insights, Netflix can better tailor its marketing, content, and platform features to boost engagement and reduce churn in this critical customer segment.
 
 **Tech Stack**: SQL (MySQL), Power BI
 
@@ -44,6 +46,8 @@ This project aims to help Netflix refine its customer retention strategies by an
 **Description**:
 During a 10-week consulting engagement with Salesforce's Data & Analytics team as part of the Master of Science in Business Analytics program at the University of Washington, I conducted exploratory data analysis on 1 million customer engagement records spanning 14 months. Utilizing tools like Pandas, Tableau, and Excel, I segmented customers into high, medium, and low engagement groups and identified the top 5 out of 24 metrics driving engagement. Additionally, I performed trend analysis in Tableau to track changes in engagement levels across these segments. Leading an 8-person team, we presented our findings and business strategies in-person to 7 senior data scientists and analysts, contributing to future engagement-enhancing campaigns at Salesforce.
 
+Due to this being a consulting engagement with Salesforce, I am under an NDA and cannot share actual code and visualizations from the project.
+
 **Tech Stack**:
 Python (Pandas, NumPy, Matplotlib, Plotly Express), Tableau, Excel
 
@@ -53,12 +57,8 @@ Python (Pandas, NumPy, Matplotlib, Plotly Express), Tableau, Excel
 
 Master of Science in Business Analytics from the Univeristy of Washington, June 2024
 
-Bachelor of Commerce with a Combined Major in Business and Computer Science from the Univeristy of British Columbia, May 2022
+Bachelor of Commerce with a Combined Major in Business and Computer Science from the University of British Columbia, May 2022
 
 ### Certificates
 
-Microsoft Certified: Azure AI Fundamentals [Certificate](https://learn.microsoft.com/api/credentials/share/en-us/ayushres-8993/72FFBA6B68CC6CD1?sharingId)
-
-## Contact Info
-
-[LinkedIn](https://www.linkedin.com/in/ayush-yoshi-shrestha/)
+[Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/ayushres-8993/72FFBA6B68CC6CD1?sharingId), August 2024
