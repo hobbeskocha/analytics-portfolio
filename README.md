@@ -16,7 +16,7 @@ Outside of my professional interests, I am a dedicated weightlifter with over a 
 
 ### Winery
 
-<img src="artifacts/winery.png" width=250 height=200>
+<img src="artifacts/winery.png" width=250 height=250>
 
 Link: [Winery and You](https://github.com/hobbeskocha/winery-and-you)
 Description:
@@ -24,14 +24,16 @@ Tech Stack:
 
 ### Netflix
 
-![Netflix retention](artifacts/streaming.png)
+<img src="artifacts/streaming.png" width=250 height=250>
+
 Link: [Netflix Retention](https://github.com/hobbeskocha/netflix-retention)
 Description:
 Tech Stack:
 
 ### Salesforce Capstone
 
-![Blue Cloud](artifacts/blue-cloud.png)
+<img src="artifacts/blue-cloud.png" width=250 height=250>
+
 Description:
 Tech Stack:
 
