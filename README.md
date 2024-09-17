@@ -16,7 +16,8 @@ Outside of my professional interests, I am a dedicated weightlifter with over a 
 
 ### Winery
 
-![Winery and you](artifacts/winery.png)
+<img src="artifacts/winery.png" width=250 height=200>
+
 Link: [Winery and You](https://github.com/hobbeskocha/winery-and-you)
 Description:
 Tech Stack:
