@@ -14,28 +14,38 @@ Outside of my professional interests, I am a dedicated weightlifter with over a 
 
 ## Projects
 
-### Winery
+### Optimizing a Winery’s Marketing Communications Strategy
 
 <img src="artifacts/winery.png" width=250 height=250>
 
-Link: [Winery and You](https://github.com/hobbeskocha/winery-and-you)
-Description:
-Tech Stack:
+**Link**: [Winery and You](https://github.com/hobbeskocha/winery-and-you)
 
-### Netflix
+**Description**:
+This project focuses on enabling a winery to enhance customer engagement through data-driven strategies by analyzing sales data from over 65,000 records across the United States. The primary objective is to develop predictive models that identify the key factors driving customer subscription preferences across three marketing channels: email, newsletter, and direct calls. After cleaning and transforming the dataset using Python and conducting exploratory analysis in Tableau, I trained logistic regression and random forest models to predict customer preferences. The models revealed strong performance for email and direct call predictions, as well as highlighting significant cross-channel marketing effects. Key recommendations include leveraging cross-channel promotions, enhancing call engagement, and improving email campaigns, all aimed at boosting customer loyalty and increasing revenue.
+
+**Tech Stack**:
+Python (Pandas, Scikit-learn, Statsmodels, Matplotlib, Seaborn), Tableau,
+
+### Improving Customer Retention for Netflix
 
 <img src="artifacts/streaming.png" width=250 height=250>
 
-Link: [Netflix Retention](https://github.com/hobbeskocha/netflix-retention)
-Description:
-Tech Stack:
+**Link**: [Netflix Retention](https://github.com/hobbeskocha/netflix-retention)
 
-### Salesforce Capstone
+**Description**:
+This project aims to help Netflix refine its customer retention strategies by analyzing a synthetic dataset of approximately 2,500 customers. After conducting data cleaning and exploratory data analysis using MySQL, I visualized key retention trends in Power BI, highlighting the impact of customer tenure, preferred device type, age, and geography. The analysis identifies high-risk segments prone to churn, with a particular emphasis on North American customers aged 41-50, who show a 5% lower retention rate compared to their peers. To address the retention gap, recommendations include enhancing the user experience for family viewing and curating nostalgia-driven must-watch playlists for this demographic. By leveraging these insights, Netflix can better tailor its marketing, content, and platform features to boost engagement and reduce churn in this critical customer segment.
+
+**Tech Stack**: SQL (MySQL), Power BI
+
+### Enhancing Salesforce’s Customer Engagement - Capstone Project
 
 <img src="artifacts/blue-cloud.png" width=250 height=250>
 
-Description:
-Tech Stack:
+**Description**:
+During a 10-week consulting engagement with Salesforce's Data & Analytics team as part of the Master of Science in Business Analytics program at the University of Washington, I conducted exploratory data analysis on 1 million customer engagement records spanning 14 months. Utilizing tools like Pandas, Tableau, and Excel, I segmented customers into high, medium, and low engagement groups and identified the top 5 out of 24 metrics driving engagement. Additionally, I performed trend analysis in Tableau to track changes in engagement levels across these segments. Leading an 8-person team, we presented our findings and business strategies in-person to 7 senior data scientists and analysts, contributing to future engagement-enhancing campaigns at Salesforce.
+
+**Tech Stack**:
+Python (Pandas, NumPy, Matplotlib, Plotly Express), Tableau, Excel
 
 ## Education & Certifications
 
