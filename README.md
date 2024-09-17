@@ -4,7 +4,7 @@
 
 Hello, I'm Ayush Shrestha!
 
-Welcome to my personal portfolio, where I showcase key personal projects that reflect my journey from software engineering into the exciting field of analytics and data science.
+Welcome to my personal portfolio, where I showcase key personal and academic projects that reflect my journey from software engineering into the exciting field of analytics and data science.
 
 I hold a Master of Science in Business Analytics from the University of Washington, where I gained expertise in data science and analytics methodologies. My academic experience and hands-on projects have given me proficiency in supervised, unsupervised, and deep learning algorithms using Python, statistical modeling with Python & R, and data visualization using tools such as Tableau, Power BI, & various Python libraries. I have further communicated business insights derived from data to both technical and non-technical stakeholders, such as data scientists, data analysts, and product managers. I am eager to leverage these skills, alongside my analytical mindset and attention to detail, to solve complex business challenges through data analysis.
 
@@ -16,33 +16,36 @@ Outside of my professional interests, I am a dedicated weightlifter with over a 
 
 ### Winery
 
-[Link]()
-Description
-Tech Stack
+![Winery and you](artifacts/winery.png)
+Link: [Winery and You](https://github.com/hobbeskocha/winery-and-you)
+Description:
+Tech Stack:
 
 ### Netflix
 
-[Link]()
-Description
-Tech Stack
+![Netflix retention](artifacts/streaming.png)
+Link: [Netflix Retention](https://github.com/hobbeskocha/netflix-retention)
+Description:
+Tech Stack:
 
-### Salesforce
+### Salesforce Capstone
 
-Description
-Tech Stack
+![Blue Cloud](artifacts/blue-cloud.png)
+Description:
+Tech Stack:
 
 ## Education & Certifications
 
-### Eduction
+### Education
 
-Master of Science in Business Analytics from UW
+Master of Science in Business Analytics from the Univeristy of Washington, June 2024
 
-Bachelor of Commerce with a Combined Major in Business and Computer Science
+Bachelor of Commerce with a Combined Major in Business and Computer Science from the Univeristy of British Columbia, May 2022
 
 ### Certificates
 
-Microsoft Certified: Azuer AI Fundamentals [Link]()
+Microsoft Certified: Azure AI Fundamentals [Certificate](https://learn.microsoft.com/api/credentials/share/en-us/ayushres-8993/72FFBA6B68CC6CD1?sharingId)
 
 ## Contact Info
 
-[LinkedIn]()
+[LinkedIn](https://www.linkedin.com/in/ayush-yoshi-shrestha/)
