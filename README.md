@@ -4,15 +4,13 @@
 
 Hello, I'm Ayush Shrestha!
 
-Welcome to my personal portfolio, where I showcase key personal and academic projects that reflect my journey from software engineering into the exciting field of analytics and data science. I am currently pivoting my career into analytics full-time, and am actively searching for analyst and data science roles.
+Welcome to my personal portfolio, featuring key personal and academic projects as I transition from software engineering to the dynamic field of analytics and data science.
 
-I hold a Master of Science in Business Analytics from the University of Washington, where I gained expertise in data science and analytics methodologies. My academic experience and hands-on projects have given me proficiency in supervised, unsupervised, and deep learning algorithms using Python, statistical modeling with Python & R, and data visualization using tools such as Tableau, Power BI, & various Python libraries. I have further communicated business insights derived from data to both technical and non-technical stakeholders, such as data scientists, data analysts, and product managers. I am eager to leverage these skills, alongside my analytical mindset and attention to detail, to solve complex business challenges through data analysis.
+I hold a Master of Science in Business Analytics from the University of Washington, where I developed expertise in data science methodologies. Through hands-on projects, I gained proficiency in supervised, unsupervised, and deep learning algorithms using Python and R, as well as data visualization tools like Tableau, Power BI, and various Python libraries. Additionally, I have presented data-driven business insights to technical and non-technical stakeholders, including data scientists, analysts, and product managers. Leveraging these skills, I look forward to solving complex business challenges through data analysis.
 
-Additionally, I hold a Bachelor of Commerce in Business and Computer Science from the University of British Columbia, where I built a strong foundation in object-oriented programming, data structures & algorithms, and database management. With over two years of professional experience in software engineering, I bring a high level of competence in code development, testing, and optimization - skills that I am confident will enhance my effectiveness as an analyst and data scientist.
+I also hold a Bachelor of Commerce in Business and Computer Science from the University of British Columbia, where I built a solid foundation in data structures, algorithms, database management, and object-oriented programming. With over two years of experience in software engineering, I bring strong competencies in code development, testing, and optimization - skills that I am confident will enhance my effectiveness as an analyst and data scientist.
 
-Outside of my professional interests, I am a dedicated weightlifter with over a decade of experience, video game enthusiast for 15 years, and proud cat dad to my two boys, Pooky and Hobbes.
-
-If you like what you see, feel free to reach out over [LinkedIn](https://www.linkedin.com/in/ayush-yoshi-shrestha/)!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ayush-yoshi-shrestha/)!
 
 ## Projects
 
