@@ -1,6 +1,6 @@
 # Ayush Shrestha's Analytics Portfolio
 
-## About Me
+## A Journey from Software Engineering to Analytics
 
 Hello, I'm Ayush Shrestha!
 
@@ -21,10 +21,10 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ayush-yos
 **Link**: [Winery and You](https://github.com/hobbeskocha/winery-and-you)
 
 **Description**:
-This project focuses on enabling a winery to enhance customer engagement through data-driven strategies by analyzing sales data from over 65,000 records across the United States. The primary objective was to develop predictive models that identify the key factors driving customer subscription preferences across three marketing channels: email, newsletter, and direct calls. After cleaning and transforming the dataset using Python and conducting exploratory analysis in Tableau, logistic regression and random forest models were trained to predict customer preferences. The coefficients and feature importances were then analyzed to identify the critical attributes affecting the likelihood of subscription.
+In this project, we analyzed a winery's sales data of over 65,000 records from across the United States. The primary objective was to develop predictive models that identify the key factors driving customer subscription preferences across three marketing channels: email, newsletter, and direct calls. Using Python, we cleaned and transformed the dataset, followed by exploratory data analysis in Tableau. Logistic regression and random forest models were then trained to predict customer preferences. The coefficients and feature importances were examined to pinpoint the critical attributes influencing the likelihood of subscription.
 
 **Results**:
-The models revealed strong performance for email and direct call predictions, as well as highlighting significant cross-channel marketing effects. Key recommendations included leveraging cross-channel promotions, enhancing call engagement, and improving email campaigns, all aimed at boosting customer loyalty and increasing revenue for the winery.
+The models revealed strong performance for email and direct call predictions, along with significant cross-channel marketing effects. Key recommendations included enhancing cross-channel promotions by increasing call engagement and expanding email marketing campaigns to boost customer loyalty and revenue for the winery.
 
 **Tech Stack**:
 Python (Pandas, Scikit-learn, Statsmodels, Matplotlib, Seaborn), Tableau
@@ -36,10 +36,10 @@ Python (Pandas, Scikit-learn, Statsmodels, Matplotlib, Seaborn), Tableau
 **Link**: [Netflix Retention](https://github.com/hobbeskocha/netflix-retention)
 
 **Description**:
-This project analyzes a synthetic dataset of approximately 2,500 customers to help Netflix refine its customer retention strategies. After conducting data cleaning and exploratory data analysis using MySQL, key retention trends were visualized in Power BI, highlighting the impact of customer tenure, preferred device type, age, and geography. The analysis identified high-risk segments prone to churn, with a particular emphasis on North American customers aged 41-50, who show a 5% lower retention rate compared to their peers.
+This project analyzes a synthetic dataset of approximately 2,500 customers to assist Netflix in refining its customer retention strategies. After performing data cleaning and exploratory data analysis using MySQL, key retention trends were visualized in Power BI, revealing the impact of customer tenure, preferred device type, age, and geography.
 
 **Results**:
-To address the retention gap, recommendations included enhancing the user experience for family viewing and curating nostalgia-driven must-watch playlists for this demographic. By leveraging these insights, Netflix can better tailor its marketing, content, and platform features to boost engagement and reduce churn in this critical customer segment.
+The analysis identified North American customers aged 41-50, who exhibited a 5% lower retention rate compared to their peers, as a high-risk segment prone to churn. To address the retention gap, recommendations included enhancing the user experience for family viewing and curating nostalgia-driven "must-watch" playlists for this demographic. By leveraging these insights, Netflix can more effectively tailor its marketing, content, and platform features to increase engagement and reduce churn in this critical customer segment.
 
 **Tech Stack**: SQL (MySQL), Power BI
 
@@ -48,12 +48,13 @@ To address the retention gap, recommendations included enhancing the user experi
 <img src="artifacts/blue-cloud.png" width=350 height=350>
 
 **Description**:
-During a 10-week consulting engagement with Salesforce's Data & Analytics team as part of the Master of Science in Business Analytics program at the University of Washington, exploratory data analysis was conducted on over 1 million customer engagement records spanning 14 months. Utilizing tools like Pandas, Tableau, and Excel, customers were segmented into high, medium, and low engagement groups and the top 5 out of 24 metrics driving engagement were identified. Additionally, trend analysis was performed in Tableau to track changes in engagement levels across these segments.
+During a 10-week consulting engagement with Salesforce's Data & Analytics team as part of the Master of Science in Business Analytics program at the University of Washington, our team of 8 conducted exploratory data analysis on over 1 million customer engagement records spanning 14 months. Using Pandas, Tableau, and Excel, customers were segmented into high, medium, and low engagement groups, and the top 5 out of 24 metrics driving engagement were identified. Additionally, trend analysis in Tableau tracked changes in engagement levels across these segments.
 
 **Results**:
-Leading an 8-person team, I presented our findings and business strategies in-person to 7 senior data scientists and analysts, contributing to future engagement-enhancing campaigns at Salesforce.
+I lead the 8-person team to present our findings and business strategies in-person to 7 senior data scientists and analysts, contributing to future engagement-enhancing campaigns at Salesforce.
 
-Due to this being a consulting engagement with Salesforce, I am under an NDA and cannot share actual code and visualizations from the project.
+**Note**:
+Due to the nature of this consulting engagement with Salesforce, I am under an NDA and cannot share the actual code or visualizations from the project.
 
 **Tech Stack**:
 Python (Pandas, NumPy, Matplotlib, Plotly Express), Tableau, Excel
@@ -63,7 +64,13 @@ Python (Pandas, NumPy, Matplotlib, Plotly Express), Tableau, Excel
 <img src="artifacts/electricity.png" width=350 height=350>
 
 **Description**:
-This project uses a recurrent nueral network to predict hourly energy load for Baltimore Gas and Electric Company.
+In this work-in-progress project, I am developing a recurrent neural network (RNN) model to predict electricity load for Baltimore Gas and Electric Company using historical data. The project involves preprocessing and analyzing hourly electricity load data from 2021 to 2024, which includes handling missing values and normalizing the data. I am employing Long Short-Term Memory (LSTM) and Gated Recurrent Units (GRU) networks to capture temporal dependencies and forecast electricity demand.
+
+**Current Status**:
+The data processing phase is complete
+
+**Next Steps**:
+Build the network models, and investigate incorporating weather data to enhance models' predictive power.
 
 **Tech Stack**:
 Python (Pandas, PyTorch, Matplotlib, Seaborn)
