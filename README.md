@@ -18,7 +18,7 @@ If you like what you see, feel free to reach out over [LinkedIn](https://www.lin
 
 ### Optimizing a Winery’s Marketing Communications Strategy
 
-<img src="artifacts/winery.png" width=250 height=250>
+<img src="artifacts/winery.png" width=350 height=350>
 
 **Link**: [Winery and You](https://github.com/hobbeskocha/winery-and-you)
 
@@ -33,7 +33,7 @@ Python (Pandas, Scikit-learn, Statsmodels, Matplotlib, Seaborn), Tableau
 
 ### Improving Customer Retention for Netflix
 
-<img src="artifacts/streaming.png" width=250 height=250>
+<img src="artifacts/streaming.png" width=350 height=350>
 
 **Link**: [Netflix Retention](https://github.com/hobbeskocha/netflix-retention)
 
@@ -47,7 +47,7 @@ To address the retention gap, recommendations included enhancing the user experi
 
 ### Enhancing Salesforce’s Customer Engagement - Capstone Project
 
-<img src="artifacts/blue-cloud.png" width=250 height=250>
+<img src="artifacts/blue-cloud.png" width=350 height=350>
 
 **Description**:
 During a 10-week consulting engagement with Salesforce's Data & Analytics team as part of the Master of Science in Business Analytics program at the University of Washington, exploratory data analysis was conducted on over 1 million customer engagement records spanning 14 months. Utilizing tools like Pandas, Tableau, and Excel, customers were segmented into high, medium, and low engagement groups and the top 5 out of 24 metrics driving engagement were identified. Additionally, trend analysis was performed in Tableau to track changes in engagement levels across these segments.
@@ -62,10 +62,14 @@ Python (Pandas, NumPy, Matplotlib, Plotly Express), Tableau, Excel
 
 ## Education
 
-Master of Science in Business Analytics from the Univeristy of Washington, June 2024
+Master of Science in Business Analytics, Univeristy of Washington, June 2024
 
-Bachelor of Commerce with a Combined Major in Business and Computer Science from the University of British Columbia, May 2022
+Bachelor of Commerce with a Combined Major in Business and Computer Science, University of British Columbia, May 2022
 
 ## Certifications
 
 [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/ayushres-8993/72FFBA6B68CC6CD1?sharingId), August 2024
+
+## Contact Info
+
+[LinkedIn](https://www.linkedin.com/in/ayush-yoshi-shrestha/)
