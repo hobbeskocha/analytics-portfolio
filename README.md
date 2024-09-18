@@ -62,7 +62,11 @@ Python (Pandas, NumPy, Matplotlib, Plotly Express), Tableau, Excel
 
 ## Education
 
+<img src="artifacts/Washington_Huskies_logo.png" width=150 height=100>
+
 Master of Science in Business Analytics, Univeristy of Washington, June 2024
+
+<img src="artifacts/ubc-logo.png" width=175 height=100>
 
 Bachelor of Commerce with a Combined Major in Business and Computer Science, University of British Columbia, May 2022
 
