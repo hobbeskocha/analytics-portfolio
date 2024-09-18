@@ -60,15 +60,27 @@ Due to this being a consulting engagement with Salesforce, I am under an NDA and
 **Tech Stack**:
 Python (Pandas, NumPy, Matplotlib, Plotly Express), Tableau, Excel
 
+## Predicting Electricity Load with a Recurrent Neural Network - In Progress
+
+<img src="artifacts/electricity.png" width=350 height=350>
+
+**Description**:
+This project uses a recurrent nueral network to predict hourly energy load for Baltimore Gas and Electric Company. 
+
+**Tech Stack**:
+Python (Pandas, PyTorch, Matplotlib, Seaborn)
+
 ## Education
 
 <img src="artifacts/Washington_Huskies_logo.png" width=150 height=100>
 
-Master of Science in Business Analytics, Univeristy of Washington, June 2024
+Master of Science in Business Analytics, June 2024
+University of Washington - Foster School of Business
 
 <img src="artifacts/ubc-logo.png" width=175 height=100>
 
-Bachelor of Commerce with a Combined Major in Business and Computer Science, University of British Columbia, May 2022
+Bachelor of Commerce with a Combined Major in Business and Computer Science, May 2022
+University of British Columbia - Sauder School of Business
 
 ## Certifications
 
