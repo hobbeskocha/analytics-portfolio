@@ -65,7 +65,7 @@ Python (Pandas, NumPy, Matplotlib, Plotly Express), Tableau, Excel
 <img src="artifacts/electricity.png" width=350 height=350>
 
 **Description**:
-This project uses a recurrent nueral network to predict hourly energy load for Baltimore Gas and Electric Company. 
+This project uses a recurrent nueral network to predict hourly energy load for Baltimore Gas and Electric Company.
 
 **Tech Stack**:
 Python (Pandas, PyTorch, Matplotlib, Seaborn)
@@ -74,13 +74,15 @@ Python (Pandas, PyTorch, Matplotlib, Seaborn)
 
 <img src="artifacts/Washington_Huskies_logo.png" width=150 height=100>
 
-Master of Science in Business Analytics, June 2024
 University of Washington - Foster School of Business
+
+Master of Science in Business Analytics, June 2024
 
 <img src="artifacts/ubc-logo.png" width=175 height=100>
 
-Bachelor of Commerce with a Combined Major in Business and Computer Science, May 2022
 University of British Columbia - Sauder School of Business
+
+Bachelor of Commerce with a Combined Major in Business and Computer Science, May 2022
 
 ## Certifications
 
