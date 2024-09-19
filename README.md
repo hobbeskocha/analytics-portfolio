@@ -14,6 +14,11 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ayush-yos
 
 ## Projects
 
+1. [Optimizing a Winery’s Marketing Communications Strategy](#optimizing-a-winerys-marketing-communications-strategy)
+2. [Improving Customer Retention for Netflix](#improving-customer-retention-for-netflix)
+3. [Enhancing Salesforce’s Customer Engagement - Capstone Project](#enhancing-salesforces-customer-engagement---capstone-project)
+4. [Predicting Electricity Load with a Recurrent Neural Network - In Progress](#predicting-electricity-load-with-a-recurrent-neural-network---in-progress)
+
 ### Optimizing a Winery’s Marketing Communications Strategy
 
 <img src="artifacts/winery.png" width=350 height=350>
