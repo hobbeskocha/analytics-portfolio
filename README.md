@@ -64,7 +64,7 @@ Due to the nature of this consulting engagement with Salesforce, I am under an N
 **Tech Stack**:
 Python (Pandas, NumPy, Matplotlib, Plotly Express), Tableau, Excel
 
-## Predicting Electricity Load with a Recurrent Neural Network - In Progress
+### Predicting Electricity Load with a Recurrent Neural Network - In Progress
 
 <img src="artifacts/electricity.png" width=350 height=350>
 
