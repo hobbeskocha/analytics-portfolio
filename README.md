@@ -65,7 +65,7 @@ Identify the key performance indicators driving high levels of customer engageme
 During a 10-week consulting engagement with Salesforce's Data & Analytics team as part of the Master of Science in Business Analytics program at the University of Washington, our team of 8 conducted exploratory data analysis on over 1 million customer engagement records spanning 14 months. Using Pandas, Tableau, and Excel, customers were segmented into high, medium, and low engagement groups, and the top 5 out of 24 metrics driving engagement were identified. Additionally, trend analysis in Tableau tracked changes in engagement levels across these segments.
 
 **Results**:
-I lead the 8-person team to present our findings and business strategies in-person to 7 senior data scientists and analysts, contributing to future engagement-enhancing campaigns at Salesforce. Recommendations included
+I lead the 8-person team to present our findings and business strategies in-person to 7 senior data scientists and analysts, contributing to future engagement-enhancing campaigns at Salesforce. Recommendations included targeted "engagement nudges" for each segment and revised cutoff points for engagement thresholds. 
 
 **Note**:
 Due to the nature of this consulting engagement with Salesforce, I am under an NDA and cannot share the actual code or visualizations from the project.
