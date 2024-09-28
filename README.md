@@ -68,14 +68,16 @@ Python (Pandas, NumPy, Matplotlib, Plotly Express), Tableau, Excel
 
 <img src="artifacts/electricity.png" width=350 height=350>
 
+**Link**: [NYC RNN](https://github.com/hobbeskocha/nyc-rnn)
+
 **Description**:
-In this work-in-progress project, I am developing a recurrent neural network (RNN) model to predict electricity load for Baltimore Gas and Electric Company using historical data. The project involves preprocessing and analyzing hourly electricity load data from 2021 to 2024, which includes handling missing values and normalizing the data. I am employing Long Short-Term Memory (LSTM) and Gated Recurrent Units (GRU) networks to capture temporal dependencies and forecast electricity demand.
+In this work-in-progress project, I am developing a recurrent neural network (RNN) model to predict electricity load for New York City for 2024 using historical load data from 2021 to 2023. The project involves preprocessing and analyzing hourly electricity load data from 2021 to 2023 as the training set, which includes handling missing values and normalizing the data. I am employing Long Short-Term Memory (LSTM) networks to capture temporal dependencies and achieve accurate predictions.
 
 **Current Status**:
-The data processing phase is complete
+The data processing phase is complete. The network model has been defined with a training loop to identify the optimum weights and a validation loop to calculate the validation error. 
 
 **Next Steps**:
-Build the network models, and investigate incorporating weather data to enhance models' predictive power.
+Investigate incorporating weather data to enhance models' predictive power. Compare the LSTM models predictive power to more traditional time-series forecasting models, like SARIMA or Winters.
 
 **Tech Stack**:
 Python (Pandas, PyTorch, Matplotlib, Seaborn)
