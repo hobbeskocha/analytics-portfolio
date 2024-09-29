@@ -19,31 +19,31 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ayush-yos
 3. [Enhancing Salesforce’s Customer Engagement - Capstone Project](#enhancing-salesforces-customer-engagement---capstone-project)
 4. [Predicting Electricity Load with a Recurrent Neural Network - In Progress](#predicting-electricity-load-with-a-recurrent-neural-network---in-progress)
 
-### Optimizing a Winery’s Marketing Communications Strategy
+### 1. Optimizing a Winery’s Marketing Communications Strategy
 
 <img src="artifacts/winery.png" width=350 height=350>
 
-**Link**: [Winery and You](https://github.com/hobbeskocha/winery-and-you)
+**Link to Full Project Report**: [Winery and You](https://github.com/hobbeskocha/winery-and-you)
 
-**Goal**: 
+**Goal**:
 Develop predictive models that identify the key factors driving customer subscription preferences across three marketing channels: email, newsletter, and direct calls.
 
 **Description**:
 In this project, we analyzed a winery's sales data of over 65,000 records from across the United States. We performed data cleaning and feature transformation on the dataset, followed by exploratory data analysis in Tableau. Logistic regression and random forest models were then trained to predict customer preferences. The coefficients and feature importances were examined to pinpoint the critical attributes influencing the likelihood of subscription.
 
 **Results**:
-The models revealed strong performance for email and direct call predictions, with accuracies above 85%, along with significant cross-channel marketing effects. Key recommendations included enhancing cross-channel promotions by increasing call engagement and expanding email marketing campaigns to boost customer loyalty and marketing ROI for the winery. 
+The models revealed strong performance for email and direct call predictions, with accuracies above 85%, along with significant cross-channel marketing effects. Key recommendations included enhancing cross-channel promotions by increasing call engagement and expanding email marketing campaigns to boost customer loyalty and marketing ROI for the winery.
 
 **Tech Stack**:
 Python (Pandas, Scikit-learn, Statsmodels, Matplotlib, Seaborn), Tableau
 
-### Improving Customer Retention for Netflix
+### 2. Improving Customer Retention for Netflix
 
 <img src="artifacts/streaming.png" width=350 height=350>
 
-**Link**: [Netflix Retention](https://github.com/hobbeskocha/netflix-retention)
+**Link to Full Project Report**: [Netflix Retention](https://github.com/hobbeskocha/netflix-retention)
 
-**Goal**: 
+**Goal**:
 Identify the customer segments with a higher risk of churn to improve overall retention.
 
 **Description**:
@@ -54,18 +54,18 @@ The analysis identified North American customers aged 41-50, who exhibited a 5% 
 
 **Tech Stack**: SQL (MySQL), Power BI
 
-### Enhancing Salesforce’s Customer Engagement - Capstone Project
+### 3. Enhancing Salesforce’s Customer Engagement - Capstone Project
 
 <img src="artifacts/blue-cloud.png" width=350 height=350>
 
-**Goal**: 
+**Goal**:
 Identify the key performance indicators driving high levels of customer engagement.
 
 **Description**:
 During a 10-week consulting engagement with Salesforce's Data & Analytics team as part of the Master of Science in Business Analytics program at the University of Washington, our team of 8 conducted exploratory data analysis on over 1 million customer engagement records spanning 14 months. Using Pandas, Tableau, and Excel, customers were segmented into high, medium, and low engagement groups, and the top 5 out of 24 metrics driving engagement were identified. Additionally, trend analysis in Tableau tracked changes in engagement levels across these segments.
 
 **Results**:
-I lead the 8-person team to present our findings and business strategies in-person to 7 senior data scientists and analysts, contributing to future engagement-enhancing campaigns at Salesforce. Recommendations included targeted "engagement nudges" for each segment and revised cutoff points for engagement thresholds. 
+I lead the 8-person team to present our findings and business strategies in-person to 7 senior data scientists and analysts, contributing to future engagement-enhancing campaigns at Salesforce. Recommendations included targeted "engagement nudges" for each segment and revised cutoff points for engagement thresholds.
 
 **Note**:
 Due to the nature of this consulting engagement with Salesforce, I am under an NDA and cannot share the actual code or visualizations from the project.
@@ -73,11 +73,11 @@ Due to the nature of this consulting engagement with Salesforce, I am under an N
 **Tech Stack**:
 Python (Pandas, NumPy, Matplotlib, Plotly Express), Tableau, Excel
 
-### Predicting Electricity Load with a Recurrent Neural Network - In Progress
+### 4. Predicting Electricity Load with a Recurrent Neural Network - In Progress
 
 <img src="artifacts/electricity.png" width=350 height=350>
 
-**Link**: [NYC RNN](https://github.com/hobbeskocha/nyc-rnn)
+**Link to Full Project Report**: [NYC RNN](https://github.com/hobbeskocha/nyc-rnn)
 
 **Goal**:
 Forecast future load demand to optimize supply-side management.
@@ -86,7 +86,7 @@ Forecast future load demand to optimize supply-side management.
 In this work-in-progress project, I am developing a recurrent neural network (RNN) model to predict electricity load for New York City for 2024 using historical load data from 2021 to 2023. The project involves preprocessing and analyzing hourly electricity load data from 2021 to 2023 as the training set, which includes handling missing values and normalizing the data. I am employing Long Short-Term Memory (LSTM) networks to capture temporal dependencies and achieve accurate predictions.
 
 **Current Status**:
-The data processing phase is complete. The network model has been defined with a training loop to identify the optimum weights and a validation loop to calculate the validation error. 
+The data processing phase is complete. The network model has been defined with a training loop to identify the optimum weights and a validation loop to calculate the validation error.
 
 **Next Steps**:
 Investigate incorporating weather data to enhance models' predictive power. Compare the LSTM models predictive power to more traditional time-series forecasting models, like SARIMA or Winters.
