@@ -58,6 +58,9 @@ The analysis identified North American customers aged 41-50, who exhibited a 5% 
 
 <img src="artifacts/blue-cloud.png" width=350 height=350>
 
+**Note**:
+Due to the nature of this consulting engagement with Salesforce, I am under an NDA and cannot share the full project report.
+
 **Goal**:
 Identify the key performance indicators driving high levels of customer engagement.
 
@@ -66,9 +69,6 @@ During a 10-week consulting engagement with Salesforce's Data & Analytics team a
 
 **Results**:
 I lead the 8-person team to present our findings and business strategies in-person to 7 senior data scientists and analysts, contributing to future engagement-enhancing campaigns at Salesforce. Recommendations included targeted "engagement nudges" for each segment and revised cutoff points for engagement thresholds.
-
-**Note**:
-Due to the nature of this consulting engagement with Salesforce, I am under an NDA and cannot share the actual code or visualizations from the project.
 
 **Tech Stack**:
 Python (Pandas, NumPy, Matplotlib, Plotly Express), Tableau, Excel
