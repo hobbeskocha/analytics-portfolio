@@ -73,7 +73,7 @@ I lead the 8-person team to present our findings and business strategies in-pers
 **Tech Stack**:
 Python (Pandas, NumPy, Matplotlib, Plotly Express), Tableau, Excel
 
-### 4. Predicting Electricity Load with a Recurrent Neural Network - In Progress
+### 4. Predicting Electricity Load using Deep Learning - In Progress
 
 <img src="artifacts/electricity.png" width=350 height=350>
 
@@ -83,13 +83,16 @@ Python (Pandas, NumPy, Matplotlib, Plotly Express), Tableau, Excel
 Forecast future load demand to optimize supply-side management.
 
 **Description**:
-In this work-in-progress project, I am developing a recurrent neural network (RNN) model to predict electricity load for New York City for 2024 using historical load data from 2021 to 2023. The project involves preprocessing and analyzing hourly electricity load data from 2021 to 2023 as the training set, which includes handling missing values and normalizing the data. I am employing Long Short-Term Memory (LSTM) networks to capture temporal dependencies and achieve accurate predictions.
+In this ongoing project, I am developing a recurrent neural network (RNN) model to predict electricity load for New York City for 2024 using historical load data from 2021 to 2023. The project involves preprocessing and analyzing hourly electricity load data from 2021 to 2023 as the training set, including handling missing values and normalizing the data. I am employing Long Short-Term Memory (LSTM) networks to capture temporal dependencies and achieve accurate predictions.
 
 **Current Status**:
-The data processing phase is complete. The network model has been defined with a training loop to identify the optimum weights and a validation loop to calculate the validation error.
+The data processing phase, as well as the initial phase of model training and evaluation, has been successfully completed. The network model has been fully defined, with a training loop implemented to optimize the weights and an inference loop to calculate the test error. 
+
+**Initial Findings**:
+The model achieved an RMSE of 147 MW on the test set, relative to an interquartile range of 4,900 to 6,600 MW. The model also forecasts the highest demand of 7225 MW in July, with a peak hourly demand of 6384 MW occurring at 6 p.m. EST. These results suggest that NYC utilities should prioritize grid reinforcement to accommodate higher electricity demand, especially during summer evenings when usage typically spikes. Furthermore, allocating additional resources during peak periods could help prevent blackouts or system overloads, ensuring grid stability.
 
 **Next Steps**:
-Investigate incorporating weather data to enhance models' predictive power. Compare the LSTM models predictive power to more traditional time-series forecasting models, like SARIMA or Winters.
+Incorporate weather data to enhance the model's predictive power. Compare the LSTM model to more traditional time-series forecasting models, like SARIMA or Winters.
 
 **Tech Stack**:
 Python (Pandas, PyTorch, Matplotlib, Seaborn)
