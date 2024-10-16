@@ -64,12 +64,12 @@ Python (Pandas, Scikit-learn, Statsmodels, Matplotlib, Seaborn), Tableau
 
 ### 3. Increasing Revenue for Global Movie Rentals
 
-[image]
+<img src="artifacts/movie-rentals.png" width=350 height=350>
 
 **Link to Full Project Report**: [SQL for Sakila](https://github.com/hobbeskocha/sql-for-sakila)
 
 **Goal**:
-Uncover business insights into key revenue drivers, rental patterns, and customer behaviour.
+Uncover novel insights into key revenue drivers, rental patterns, and customer behaviour.
 
 **Description**:
 This project analyzes the Sakila database, a normalized relational databse consisting of 15 tables and over 40,000 records from a global movie rental company. We conducted data processing and exploratory data analysis primarily using PostgreSQL. The core analysis was leveraged PostgreSQL and Power BI to create data visualizations and dashboards that highlighted the impact of factors like genre, MPAA rating, and geographic region on revenue, rental volume, and customer behaviour.
