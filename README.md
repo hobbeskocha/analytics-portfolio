@@ -16,7 +16,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ayush-yos
 
 1. [Predicting Electricity Load using Deep Learning - In Progress](#1-predicting-electricity-load-using-deep-learning---in-progress)
 2. [Optimizing a Winery’s Marketing Communications Strategy](#2-optimizing-a-winerys-marketing-communications-strategy)
-3. [Increasing Revenue for Global Movie Rentals](#3-increasing-revenue-for-global-movie-rentals)
+3. [Increasing Revenue for Sakila's Global Movie Rentals](#3-increasing-revenue-for-sakilas-global-movie-rentals)
 4. [Enhancing Salesforce’s Customer Engagement - Capstone Project](#4-enhancing-salesforces-customer-engagement---capstone-project)
 5. [Improving Customer Retention for Netflix](#5-improving-customer-retention-for-netflix)
 
@@ -62,7 +62,7 @@ The models revealed strong performance for email and direct call predictions, wi
 **Tech Stack**:
 Python (Pandas, Scikit-learn, Statsmodels, Matplotlib, Seaborn), Tableau
 
-### 3. Increasing Revenue for Global Movie Rentals
+### 3. Increasing Revenue for Sakila's Global Movie Rentals
 
 <img src="artifacts/movie-rentals.png" width=350 height=350>
 
@@ -72,7 +72,7 @@ Python (Pandas, Scikit-learn, Statsmodels, Matplotlib, Seaborn), Tableau
 Uncover novel insights into key revenue drivers, rental patterns, and customer behaviour.
 
 **Description**:
-This project analyzes the Sakila database, a normalized relational databse consisting of 15 tables and over 40,000 records from a global movie rental company. We conducted data processing and exploratory data analysis primarily using PostgreSQL. The core analysis was leveraged PostgreSQL and Power BI to create data visualizations and dashboards that highlighted the impact of factors like genre, MPAA rating, and geographic region on revenue, rental volume, and customer behaviour.
+This project analyzes the Sakila database, a normalized relational databse consisting of 15 tables and over 40,000 records from a global movie rental company. We conducted data processing and exploratory data analysis primarily using PostgreSQL. The core analysis leveraged PostgreSQL and Power BI to create data visualizations and dashboards that highlighted the impact of factors like genre, MPAA rating, and geographic region on revenue, rental volume, and customer behaviour.
 
 **Results**:
 Key findings include identifying PG-13 and NC-17 movies contribute approximately 50% of both revenue and rental volume, a negative correlation between movie length and the average days a movie is returned late, and that Store 1 experiences 20% more rentals despite having 10% less inventory than Store 2.
