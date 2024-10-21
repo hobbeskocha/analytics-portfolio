@@ -14,13 +14,13 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ayush-yos
 
 ## Projects
 
-1. [Predicting Electricity Load using Deep Learning - In Progress](#1-predicting-electricity-load-using-deep-learning---in-progress)
-2. [Optimizing a Winery’s Marketing Communications Strategy](#2-optimizing-a-winerys-marketing-communications-strategy)
+1. [Predicting Electricity Load using Deep Learning - In Progress](#1-nyc-electricity-demand-forecasting-using-deep-learning---in-progress)
+2. [Optimization of a Winery’s Marketing Communications Strategy](#2-optimization-of-a-winerys-marketing-communications-strategy)
 3. [Increasing Revenue for Sakila's Global Movie Rentals](#3-increasing-revenue-for-sakilas-global-movie-rentals)
 4. [Enhancing Salesforce’s Customer Engagement - Capstone Project](#4-enhancing-salesforces-customer-engagement---capstone-project)
 5. [Improving Customer Retention for Netflix](#5-improving-customer-retention-for-netflix)
 
-### 1. Predicting Electricity Load using Deep Learning - In Progress
+### 1. NYC Electricity Demand Forecasting using Deep Learning - In Progress
 
 <img src="artifacts/electricity.png" width=350 height=350>
 
@@ -44,7 +44,7 @@ Compare the LSTM model to more traditional time-series forecasting models, like 
 **Tech Stack**:
 Python (Pandas, PyTorch, Matplotlib, Seaborn)
 
-### 2. Optimizing a Winery’s Marketing Communications Strategy
+### 2. Optimization of a Winery’s Marketing Communications Strategy
 
 <img src="artifacts/winery.png" width=350 height=350>
 
