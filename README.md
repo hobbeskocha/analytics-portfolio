@@ -14,7 +14,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ayush-yos
 
 ## Projects
 
-1. [Predicting Electricity Load using Deep Learning - In Progress](#1-nyc-electricity-demand-forecasting-using-deep-learning---in-progress)
+1. [NYC Electricity Demand Forecasting using Deep Learning - In Progress](#1-nyc-electricity-demand-forecasting-using-deep-learning---in-progress)
 2. [Optimization of a Winery’s Marketing Communications Strategy](#2-optimization-of-a-winerys-marketing-communications-strategy)
 3. [Increasing Revenue for Sakila's Global Movie Rentals](#3-increasing-revenue-for-sakilas-global-movie-rentals)
 4. [Enhancing Salesforce’s Customer Engagement - Capstone Project](#4-enhancing-salesforces-customer-engagement---capstone-project)
