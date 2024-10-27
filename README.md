@@ -14,13 +14,13 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ayush-yos
 
 ## Projects
 
-1. [NYC Electricity Demand Forecasting using Deep Learning - In Progress](#1-nyc-electricity-demand-forecasting-using-deep-learning---in-progress)
+1. [NYC Electricity Demand Forecasting using Deep Learning](#1-nyc-electricity-demand-forecasting-using-deep-learning)
 2. [Optimization of a Winery’s Marketing Communications Strategy](#2-optimization-of-a-winerys-marketing-communications-strategy)
 3. [Increasing Revenue for Sakila's Global Movie Rentals](#3-increasing-revenue-for-sakilas-global-movie-rentals)
 4. [Enhancing Salesforce’s Customer Engagement - Capstone Project](#4-enhancing-salesforces-customer-engagement---capstone-project)
 5. [Improving Customer Retention for Netflix](#5-improving-customer-retention-for-netflix)
 
-### 1. NYC Electricity Demand Forecasting using Deep Learning - In Progress
+### 1. NYC Electricity Demand Forecasting using Deep Learning
 
 <img src="artifacts/electricity.png" width=350 height=350>
 
@@ -33,7 +33,7 @@ Forecast future load demand to optimize supply-side management.
 In this project, I develop recurrent neural networks (RNN) and boosting ensemble models to predict electricity load for New York City for 2024 using historical load and temperature data from 2021 to 2023. The project involves preprocessing and analyzing hourly data ranging from June 2021 to September 2023 as the training set, including handling missing values and normalizing the data. I employ Long Short-Term Memory (LSTM), Gated Recurrent Unit (GRU), and XGBoost models to capture temporal dependencies and achieve accurate predictions.
 
 **Results**:
-The deep learning models achieved an RMSE of 124-126 MW on the test set, while XGBoost demonstrated a significantly lower RMSE of 86 MW. Although these outcomes differ from my initial expectations, they highlight an important insight: deep learning is not a one-size-fits-all solution. Various factors, including dataset size, feature complexity, and implementation costs, must be evaluated to determine whether deep learning is the optimal approach for a specific use case. In addition, the models project a peak demand of 7,300 MW in July, with a maximum hourly demand of 6,400 MW expected at 6 p.m. EST. These findings indicate that utilities in New York City should prioritize grid reinforcement initiatives to accommodate increased electricity demand, particularly during summer evenings when usage tends to surge.
+The deep learning models achieved an RMSE of 124-126 MW on the test set, while XGBoost demonstrated a significantly lower RMSE of 86 MW. Although these outcomes differ from my initial expectations, they highlight an important insight: deep learning is not a one-size-fits-all solution. Various factors, including dataset size and feature complexity, must be evaluated to determine whether deep learning is the optimal approach. In addition, the models project a peak demand of 7,300 MW in July, with a maximum hourly demand of 6,400 MW expected at 6 p.m. EST. These findings indicate that utilities in New York City should prioritize grid reinforcement initiatives to accommodate increased electricity demand, particularly during summer evenings when usage tends to surge.
 
 **Tech Stack**:
 Python (Pandas, PyTorch, XGBoost, Matplotlib, Seaborn)
