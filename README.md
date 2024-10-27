@@ -30,19 +30,13 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ayush-yos
 Forecast future load demand to optimize supply-side management.
 
 **Description**:
-In this ongoing project, I am developing a recurrent neural network (RNN) model to predict electricity load for New York City for 2024 using historical load and temperature data from 2021 to 2023. The project involves preprocessing and analyzing hourly data ranging from June 2021 to September 2023 as the training set, including handling missing values and normalizing the data. I am employing Long Short-Term Memory (LSTM) networks to capture temporal dependencies and achieve accurate predictions.
+In this project, I develop recurrent neural networks (RNN) and boosting ensemble models to predict electricity load for New York City for 2024 using historical load and temperature data from 2021 to 2023. The project involves preprocessing and analyzing hourly data ranging from June 2021 to September 2023 as the training set, including handling missing values and normalizing the data. I employ Long Short-Term Memory (LSTM), Gated Recurrent Unit (GRU), and XGBoost models to capture temporal dependencies and achieve accurate predictions.
 
-**Current Status**:
-The data processing, model training, and model evaluation are complete. The network model has been fully defined, with a training loop implemented to optimize the weights and an inference loop to calculate the test error.
-
-**Initial Findings**:
-The model achieved an RMSE of 124 MW on the test set, relative to an interquartile range of 4900 to 6600 MW. The model also forecasts the highest demand of 7239 MW in July, with a peak hourly demand of 6378 MW occurring at 6 p.m. EST. These results suggest that NYC utilities should prioritize grid reinforcement to accommodate higher electricity demand, especially during summer evenings when usage typically spikes. Furthermore, allocating additional resources during peak periods could help prevent blackouts or system overloads, ensuring grid stability.
-
-**Next Steps**:
-Compare the LSTM model to more traditional time-series forecasting models, like SARIMA, to assess the relative predictive power of the deep learning approach.
+**Results**:
+The deep learning models achieved an RMSE of 124-126 MW on the test set, while XGBoost demonstrated a significantly lower RMSE of 86 MW. Although these outcomes differ from my initial expectations, they highlight an important insight: deep learning is not a one-size-fits-all solution. Various factors, including dataset size, feature complexity, and implementation costs, must be evaluated to determine whether deep learning is the optimal approach for a specific use case. In addition, the models project a peak demand of 7,300 MW in July, with a maximum hourly demand of 6,400 MW expected at 6 p.m. EST. These findings indicate that utilities in New York City should prioritize grid reinforcement initiatives to accommodate increased electricity demand, particularly during summer evenings when usage tends to surge.
 
 **Tech Stack**:
-Python (Pandas, PyTorch, Matplotlib, Seaborn)
+Python (Pandas, PyTorch, XGBoost, Matplotlib, Seaborn)
 
 ### 2. Optimization of a Winery’s Marketing Communications Strategy
 
