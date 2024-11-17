@@ -69,7 +69,7 @@ Uncover novel insights into key revenue drivers, rental patterns, and customer b
 This project analyzes the Sakila database, a normalized relational databse consisting of 15 tables and over 40,000 records from a global movie rental company. We conducted data processing and exploratory data analysis primarily using PostgreSQL. The core analysis leveraged PostgreSQL and Power BI to create data visualizations and dashboards that highlighted the impact of factors like genre, MPAA rating, and geographic region on revenue, rental volume, and customer behaviour.
 
 **Results**:
-Key findings include identifying PG-13 and NC-17 movies contribute approximately 50% of both revenue and rental volume, a negative correlation between movie length and the average days a movie is returned late, and that Store 1 experiences 20% more rentals despite having 10% less inventory than Store 2.
+Key findings include identifying PG-13 and NC-17 movies contribute approximately 50% of both revenue and rental volume, a negative correlation between movie length and the average days a movie is returned late, and that Store 1 experiences 20% more rentals despite having 3% less inventory than Store 2.
 Recommendations include focusing marketing and acquisition efforts on PG-13 and NC-17 movies to maximize their revenue potential, implementing a timely-returns incentive program to reduce late returns, and introducing a dynamic inventory-sharing system between stores to address inventory bottlenecks.
 
 **Tech Stack**:
