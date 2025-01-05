@@ -16,7 +16,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ayush-yos
 
 1. [NYC Electricity Demand Forecasting using Deep Learning](#1-nyc-electricity-demand-forecasting-using-deep-learning)
 2. [Optimization of a Winery’s Marketing Communications Strategy](#2-optimization-of-a-winerys-marketing-communications-strategy)
-3. [Increasing Revenue for Sakila's Global Movie Rentals](#3-increasing-revenue-for-sakilas-global-movie-rentals)
+3. [Business Operations Improvement for Sakila's Global Movie Rentals](#3-business-operations-improvement-for-sakilas-global-movie-rentals)
 4. [Enhancing Salesforce’s Customer Engagement - Capstone Project](#4-enhancing-salesforces-customer-engagement---capstone-project)
 5. [Improving Customer Retention for Netflix](#5-improving-customer-retention-for-netflix)
 
@@ -56,7 +56,7 @@ The models revealed strong performance for email and direct call predictions, wi
 **Tech Stack**:
 Python (Pandas, Scikit-learn, Statsmodels, Matplotlib, Seaborn), Tableau
 
-### 3. Increasing Revenue for Sakila's Global Movie Rentals
+### 3. Business Operations Improvement for Sakila's Global Movie Rentals
 
 <img src="artifacts/movie-rentals.png" width=350 height=350>
 
