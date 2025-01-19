@@ -42,7 +42,9 @@ Python (Pandas, PyTorch, XGBoost, Matplotlib, Seaborn)
 
 <img src="artifacts/winery.png" width=350 height=350>
 
-**Link to Full Project Report**: [Winery and You](https://github.com/hobbeskocha/winery-and-you)
+**Link to Full Project Report**: [Winery and You](https://github.com/hobbeskocha/winery-and-you/)
+
+**Link to Live Demo Website**: [Live Demo Website](https://winery-and-you.streamlit.app/)
 
 **Goal**:
 Develop predictive models that identify the key factors driving customer subscription preferences across three marketing channels: email, newsletter, and direct calls.
@@ -53,8 +55,10 @@ In this project, we analyzed a winery's sales data of over 65,000 records from a
 **Results**:
 The models revealed strong performance for email and direct call predictions, with accuracies above 85%, along with significant cross-channel marketing effects. Key recommendations included enhancing cross-channel promotions by increasing call engagement and expanding email marketing campaigns to boost customer loyalty and marketing ROI for the winery.
 
+Furthermore, we deployed a [live demo website](https://winery-and-you.streamlit.app/), built using Streamlit and FastAPI, onto Google Cloud Platform (GCP), allowing users to input customer details and receive real-time ML predictions on customers' subscription preferences.
+
 **Tech Stack**:
-Python (Pandas, Scikit-learn, Statsmodels, Matplotlib, Seaborn), Tableau
+Python (Pandas, Scikit-learn, Statsmodels, Matplotlib, Seaborn), Tableau, FastAPI, Streamlit, GCP, Docker
 
 ### 3. Business Operations Improvement for Sakila's Global Movie Rentals
 
